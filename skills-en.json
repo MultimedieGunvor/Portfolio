@@ -1,19 +1,19 @@
 { 
-    "skills-en" : [
+    "skillsen" : [
     {
         "title": "Skills",
-        "deets-title": "Eye for detail",
-        "deets-content": "The key to good communication and a good product is in the details. I eschew half-hearted attempts, and I take pride in a job well done.",
-        "adobe-title": "Adobe Creative Cloud",
-        "adobe-content": "I have been using Photoshop for many years now, for image editing and creating raster graphics. I design vector graphics in Illustrator, and do layouts in In Design. Furthermore, I have worked with prototyping in Xd and Figma.",
-        "design-title": "Design",
-        "design-content": "UX and UI design have been a staple of my multimedia studies. I have worked with logo design, icons, posters, infographics, and other graphic materials, as well as creating visual identities through the use of style tiles, creative briefs and more.",
-        "web-title": "Web development",
-        "web-content": "I have a thorough understanding of HTML5 and CSS3, and am proficient in JavaScript. I have also worked with Wordpress as a headless CMS, and in connection with e-commerce admin work.",
-        "react-title": "React",
-        "react-content": "Through my studies as a multimedia designer, I have gained a knowledge of React, which I have employed creating components for SPA websites, among other things.",
-        "some-title": "Video and social media",
-        "some-content": "I am proficient in social media marketing, and have experience creating video and motion graphics for use on social media platforms using Premiere Pro and After Effects."
+        "deetstitle": "Eye for detail",
+        "deetscontent": "The key to good communication and a good product is in the details. I eschew half-hearted attempts, and I take pride in a job well done.",
+        "adobetitle": "Adobe Creative Cloud",
+        "adobecontent": "I have been using Photoshop for many years now, for image editing and creating raster graphics. I design vector graphics in Illustrator, and do layouts in In Design. Furthermore, I have worked with prototyping in Xd and Figma.",
+        "designtitle": "Design",
+        "designcontent": "UX and UI design have been a staple of my multimedia studies. I have worked with logo design, icons, posters, infographics, and other graphic materials, as well as creating visual identities through the use of style tiles, creative briefs and more.",
+        "webtitle": "Web development",
+        "webcontent": "I have a thorough understanding of HTML5 and CSS3, and am proficient in JavaScript. I have also worked with Wordpress as a headless CMS, and in connection with e-commerce admin work.",
+        "reacttitle": "React",
+        "reactcontent": "Through my studies as a multimedia designer, I have gained a knowledge of React, which I have employed creating components for SPA websites, among other things.",
+        "sometitle": "Video and social media",
+        "somecontent": "I am proficient in social media marketing, and have experience creating video and motion graphics for use on social media platforms using Premiere Pro and After Effects."
 
 
     }
