@@ -1,6 +1,7 @@
 { 
     "project" : [
     {
+        "id": "1",
         "image": "/img/Amo-logo2.jpg",
         "title": "Amo",
         "summary": "Responsiv webløsning. Første semesters eksamensprojekt", 
@@ -18,6 +19,7 @@
         
     },
     {
+        "id": "2",
         "image": "/img/AFS-logo1.jpg",
         "title": "AFS Interkultur Danmark",
         "summary": "Webdok for en non-profit organisation med fokus på internationalt samarbejde", 
@@ -34,6 +36,7 @@
         "link": "https://github.com/MagnusKingoDanielsen/Webdoc.git"
     },
     {
+        "id": "3",
         "image": "/img/Orkester-logo.jpg",
         "title": "Tranbjerg-symfonien",
         "summary": "Kort læringsprojekt med fokus på eksterne datakilder. Tredje semester", 
@@ -50,6 +53,7 @@
         "link": "https://github.com/MultimedieGunvor/OrkesterCase.git"
     },
     {
+        "id": "4",
         "image": "/img/Saki-logo2.jpg",
         "title": "Snack & hund",
         "summary": "Design- og layoutprojekt for en kogebogsforfatter. Freelance-arbejde", 
@@ -66,6 +70,7 @@
         "link": "https://www.bog-ide.dk/produkt/3914770/stine-maren-knudsen-snack-hund"
     },
     {
+        "id": "5",
         "image": "/img/Henrik-logo2.jpg",
         "title": "Guldsmed Henrik Saugbjerg",
         "summary": "Dynamisk webløsning med SoMe content strategi. Andet semesters eksamensprojekt", 
