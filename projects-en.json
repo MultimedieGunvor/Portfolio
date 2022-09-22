@@ -1,0 +1,85 @@
+{ 
+    "projects" : [
+    {
+        "image": "/img/Amo-logo2.jpg",
+        "title": "Amo",
+        "summary": "Responsive web solution. First semester exam project", 
+        "description": "Here, I singled out potential new target groups for an already established brand, and I worked to meet their needs and wishes. As a consequence, the site provides information about Amo's proposed new line of organic products, and families with children can test their baking knowledge with a fun quiz.", 
+        "tool-title": "Tools and processes", 
+        "tool1": "Field research", 
+        "tool2": "User testing", 
+        "tool3": "Project management",
+        "tool4": "Logo design",
+        "tool5": "Photoshop",
+        "tool6": "Illustrator",
+        "tool7": "HTML and CSS",
+        "tool8": " ",
+        "link": "https://github.com/MultimedieGunvor/Amo.git"
+        
+    },
+    {
+        "image": "/img/AFS-logo1.jpg",
+        "title": "AFS Intercultural Programs",
+        "summary": "Web doc for a non-profit organisation focusing on international relations", 
+        "description": "An exiting group project with an emphasis on cooperation across disciplines and a solid understanding of the needs of the user. We employed storytelling for the web doc, created a supplementary SoMe campaign strategy, and pitched our product to the client in a professional setting.", 
+        "tool-title": "Tools and processes", 
+        "tool1": "Infographics and design", 
+        "tool2": "Project pitching", 
+        "tool3": "Premiere Pro",
+        "tool4": "After Effects",
+        "tool5": "Photoshop",
+        "tool6": "Illustrator",
+        "tool7": "HTML and CSS",
+        "tool8": "JavaScript",
+        "link": "https://github.com/MagnusKingoDanielsen/Webdoc.git"
+    },
+    {
+        "image": "/img/Orkester-logo.jpg",
+        "title": "The Tranbjerg Symphony",
+        "summary": "Short educational project focused on the use of external data sources. Third semester", 
+        "description": "A fictitious symphonic orchestra was looking for a solution to keep track of their musicians. Therefore, the site needed to include a search function, as well as functions to show all musicians, delete musicians, and create new musicians.", 
+        "tool-title": "Tools and processes", 
+        "tool1": "HTML and CSS", 
+        "tool2": "JavaScript", 
+        "tool3": "MVC structure",
+        "tool4": "Fetch and JSON",
+        "tool5": " ",
+        "tool6": " ",
+        "tool7": " ",
+        "tool8": " ",
+        "link": "https://github.com/MultimedieGunvor/OrkesterCase.git"
+    },
+    {
+        "image": "/img/Saki-logo2.jpg",
+        "title": "Snack & hund",
+        "summary": "Design and layout project for a cookbook writer. Freelance work", 
+        "description": "Over the course of this project, I grew very familiar with In Design, and I gained a greater understanding of the processes involved in publishing a book. The project tasks included proofreading, design and composition work, and layout for the entire book, including the cover.", 
+        "tool-title": "Tools and processes", 
+        "tool1": "In Design", 
+        "tool2": "Typography", 
+        "tool3": "Layout",
+        "tool4": " ",
+        "tool5": " ",
+        "tool6": " ",
+        "tool7": " ",
+        "tool8": " ",
+        "link": "https://www.bog-ide.dk/produkt/3914770/stine-maren-knudsen-snack-hund"
+    },
+    {
+        "image": "/img/Henrik-logo2.jpg",
+        "title": "Jeweller Henrik Saugbjerg",
+        "summary": "Dynamic web solution combined with a SoMe content strategy. Second semester exam project", 
+        "description": "The company already had an established customer base, but was struggling to connect with a younger audience. To address this issue, we focused on creating a solution based on an understanding of the user, and we employed a SoMe campaign targeting a younger demographic with creative hobbies and interests such as jewelry making. We generated content dynamically by importing information from an external data source about the jewelry making courses that the company offers.", 
+        "tool-title": "Tools and processes", 
+        "tool1": "User base segmentation", 
+        "tool2": "User testing", 
+        "tool3": "Project management",
+        "tool4": "Photoshop",
+        "tool5": "Illustrator",
+        "tool6": "After Effects",
+        "tool7": "HTML and CSS",
+        "tool8": "JavaScript and JSON",
+        "link": "https://github.com/MultimedieGunvor/Henrik-Saugbjerg.git"
+    }
+]
+}
