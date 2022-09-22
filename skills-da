@@ -1,0 +1,21 @@
+{ 
+    "skills-da" : [
+    {
+        "title": "Kompetencer",
+        "deets-title": "Øje for detaljer",
+        "deets-content": "Nøglen til god kommunikation og et godt produkt er, at det er gennemført. Jeg går ikke ind for halve løsninger, og sætter en stolthed i et stykke godt udført arbejde.",
+        "adobe-title": "Adobe Creative Cloud",
+        "adobe-content": "Jeg har brugt Photoshop i mange år, til billedbehandling og rastergrafik. Jeg designer vektorgrafik med Illustrator, og arbejder med layout i In Design. Derudover har jeg arbejdet med prototyping i Xd og Figma.",
+        "design-title": "Design",
+        "design-content": "UX og UI design er noget, jeg har beskæftiget mig meget med gennem mit studie. Derfor har jeg arbejdet med design af logo og ikoner, plakater, infografikker og andre grafiske materialer, samt design af visuelle identiteter gennem brug af blandt andet style tiles og creative briefs.",
+        "web-title": "Webudvikling",
+        "web-content": "Jeg har et grundigt kendskab til HTML5 og CSS3, og god erfaring med JavaScript. Derudover har jeg arbejdet med Wordpress som headless CMS, og i forbindelse med administration af webshop.",
+        "react-title": "React",
+        "react-content": "Gennem mit studie har jeg fået kendskab til React, og jeg har blandt andet brugt det til at bygge komponenter til SPA websites.",
+        "some-title": "Video og sociale medier",
+        "some-content": "Jeg har et godt kendskab til social media marketing, og har erfaring med at skabe video og motion graphics med Premiere Pro og After Effects til brug på sociale platforme."
+
+
+    }
+]
+}
