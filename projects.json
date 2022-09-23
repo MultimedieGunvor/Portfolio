@@ -1,6 +1,6 @@
 [
     {
-        "id". "6",
+        "id":"6",
         "image": "http://projects.gupalu.dk/wp-content/uploads/2022/09/Amo-logo2.jpg",
         "title": "Amo",
         "summary": "Responsive web solution. First semester exam project", 
@@ -18,7 +18,7 @@
         
     },
     {
-        "id". "7",
+        "id": "7",
         "image": "http://projects.gupalu.dk/wp-content/uploads/2022/09/AFS-logo1.jpg",
         "title": "AFS Intercultural Programs",
         "summary": "Web doc for a non-profit organisation focusing on international relations", 
@@ -35,7 +35,7 @@
         "link": "https://github.com/MagnusKingoDanielsen/Webdoc.git"
     },
     {
-        "id". "8",
+        "id": "8",
         "image": "http://projects.gupalu.dk/wp-content/uploads/2022/09/Orkester-logo.jpg",
         "title": "The Tranbjerg Symphony",
         "summary": "Short educational project focused on the use of external data sources. Third semester", 
@@ -52,7 +52,7 @@
         "link": "https://github.com/MultimedieGunvor/OrkesterCase.git"
     },
     {
-        "id". "9",
+        "id": "9",
         "image": "http://projects.gupalu.dk/wp-content/uploads/2022/09/Saki-logo2.jpg",
         "title": "Snack & hund",
         "summary": "Design and layout project for a cookbook writer. Freelance work", 
@@ -69,7 +69,7 @@
         "link": "https://www.bog-ide.dk/produkt/3914770/stine-maren-knudsen-snack-hund"
     },
     {
-        "id". "10",
+        "id": "10",
         "image": "http://projects.gupalu.dk/wp-content/uploads/2022/09/Henrik-logo2.jpg",
         "title": "Jeweller Henrik Saugbjerg",
         "summary": "Dynamic web solution combined with a SoMe content strategy. Second semester exam project", 
