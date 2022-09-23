@@ -1,5 +1,4 @@
-{ 
-    "project" : [
+[
     {
         "image": "/img/Amo-logo2.jpg",
         "title": "Amo",
@@ -82,4 +81,4 @@
         "link": "https://github.com/MultimedieGunvor/Henrik-Saugbjerg.git"
     }
 ]
-}
+
