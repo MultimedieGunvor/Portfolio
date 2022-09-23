@@ -1,5 +1,4 @@
-{ 
-    "mainda" : [
+[
     {
         "content": "Jeg er en kreativ ildsjæl, som brænder for visuel kommunikation.  Min evne til at holde overblikket og sætte delmål er en af mine stærkeste kompetencer når det kommer til projektarbejde, og jeg trives ved at have en konkret deadline at arbejde hen imod. Min projekterfaring med at indsamle og anvende empiriske data om brugere og brugssituationer fra projekt: Guldsmed Henrik Saugbjerg har givet mig en bredere brugerforståelse, som jeg tager med til fremtidige projekter.  Ligeledes har det også rustet mig til at arbejde med JavaScript og JSON. Jeg nyder designprocessen - at lege med layout, farver, effekter etc. - og jeg elsker udfordringen ved at omsætte designs til kode. Det er så tilfredsstillende at bygge noget op fra bunden, og se det fungere. Det er også en udfordring at produktet skal passe til flere platforme, så man skal virkelig tænke over sit design, og hvor godt, det skalerer. Personligt drives jeg af en lyst til at lære nyt, og skabe interessante designs, som er indbydende, intuitive og overskuelige at bruge.", 
         "trends": "/img/trends.png", 
@@ -9,4 +8,4 @@
 
     }
 ]
-}
+
