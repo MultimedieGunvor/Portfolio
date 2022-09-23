@@ -19,7 +19,7 @@
     },
     {
         "id": "2",
-        "image": "../img/AFS-logo1.jpg",
+        "image": "http://projects.gupalu.dk/wp-content/uploads/2022/09/AFS-logo1.jpg",
         "title": "AFS Interkultur Danmark",
         "summary": "Webdok for en non-profit organisation med fokus på internationalt samarbejde", 
         "description": "Et spændende gruppeprojekt med vægt på tværfagligt samarbejde og god brugerforståelse. Vi brugte storytelling til at skabe en webdok, med tilhørende SoMe kampagnestrategi, og fremlagde vores produkt for virksomheden i en professionel præsentation.", 
@@ -36,7 +36,7 @@
     },
     {
         "id": "3",
-        "image": "img/Orkester-logo.jpg",
+        "image": "http://projects.gupalu.dk/wp-content/uploads/2022/09/Orkester-logo.jpg",
         "title": "Tranbjerg-symfonien",
         "summary": "Kort læringsprojekt med fokus på eksterne datakilder. Tredje semester", 
         "description": "Et fiktivt symfoniorkester stod og manglede en overskuelig løsning til at holde styr på deres musikere. Sitet skulle derfor indeholde en søgefunktion og funktioner der kunne vise samtlige musikere, slette musikere og oprette nye musikere.", 
@@ -53,7 +53,7 @@
     },
     {
         "id": "4",
-        "image": "/img/Saki-logo2.jpg",
+        "image": "http://projects.gupalu.dk/wp-content/uploads/2022/09/Saki-logo2.jpg",
         "title": "Snack & hund",
         "summary": "Design- og layoutprojekt for en kogebogsforfatter. Freelance-arbejde", 
         "description": "I løbet af dette projekt blev jeg meget fortrolig med Adobe In Design, og fik en større forståelse for processerne bag udgivelsen af en bog. Mine opgaver omfattede korrekturlæsning, design- og kompositionsarbejde og layout af hele bogblokken samt for-og bagsiden.", 
@@ -70,7 +70,7 @@
     },
     {
         "id": "5",
-        "image": "/img/Henrik-logo2.jpg",
+        "image": "http://projects.gupalu.dk/wp-content/uploads/2022/09/Henrik-logo2.jpg",
         "title": "Guldsmed Henrik Saugbjerg",
         "summary": "Dynamisk webløsning med SoMe content strategi. Andet semesters eksamensprojekt", 
         "description": "Virksomheden havde en etableret kundebase, men kæmpede med at skabe kontakt til en yngre målgruppe. Derfor satte vi fokus på brugerforståelse i vores løsning, og målrettede vores SoMe kampagne mod et yngre publikum med kreative interesser såsom smykkefremstilling. Vi genererede dynamisk indhold på sitet ved at hente information om smykkefremstillingskurser fra en ekstern datakilde.", 
