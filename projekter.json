@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "image": "/img/Amo-logo2.jpg",
+        "image": "./img/Amo-logo2.jpg",
         "title": "Amo",
         "summary": "Responsiv webløsning. Første semesters eksamensprojekt", 
         "description": "Her isolerede jeg potentielle nye målgrupper til et etableret brand, og jeg arbejdede med at imødekomme deres behov og ønsker. Derfor kan man på sitet læse om Amos nye, økologiske linje, og børnefamilier kan teste deres viden om bagning ved at tage en sjov bagequiz.", 
@@ -19,7 +19,7 @@
     },
     {
         "id": "2",
-        "image": "/img/AFS-logo1.jpg",
+        "image": "../img/AFS-logo1.jpg",
         "title": "AFS Interkultur Danmark",
         "summary": "Webdok for en non-profit organisation med fokus på internationalt samarbejde", 
         "description": "Et spændende gruppeprojekt med vægt på tværfagligt samarbejde og god brugerforståelse. Vi brugte storytelling til at skabe en webdok, med tilhørende SoMe kampagnestrategi, og fremlagde vores produkt for virksomheden i en professionel præsentation.", 
