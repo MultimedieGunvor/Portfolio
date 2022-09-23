@@ -1,16 +1,22 @@
 [
     {
         "title": "Kompetencer",
+        "deetslogo": "http://projects.gupalu.dk/wp-content/uploads/2022/09/detail2.png",
         "deetstitle": "Øje for detaljer",
         "deetscontent": "Nøglen til god kommunikation og et godt produkt er, at det er gennemført. Jeg går ikke ind for halve løsninger, og sætter en stolthed i et stykke godt udført arbejde.",
+        "adobelogo": "http://projects.gupalu.dk/wp-content/uploads/2022/09/adobe2.png",
         "adobetitle": "Adobe Creative Cloud",
         "adobecontent": "Jeg har brugt Photoshop i mange år, til billedbehandling og rastergrafik. Jeg designer vektorgrafik med Illustrator, og arbejder med layout i In Design. Derudover har jeg arbejdet med prototyping i Xd og Figma.",
+        "designlogo": "http://projects.gupalu.dk/wp-content/uploads/2022/09/design2.png",
         "designtitle": "Design",
         "designcontent": "UX og UI design er noget, jeg har beskæftiget mig meget med gennem mit studie. Derfor har jeg arbejdet med design af logo og ikoner, plakater, infografikker og andre grafiske materialer, samt design af visuelle identiteter gennem brug af blandt andet style tiles og creative briefs.",
+        "weblogo": "http://projects.gupalu.dk/wp-content/uploads/2022/09/web2.png",
         "webtitle": "Webudvikling",
         "webcontent": "Jeg har et grundigt kendskab til HTML5 og CSS3, og god erfaring med JavaScript. Derudover har jeg arbejdet med Wordpress som headless CMS, og i forbindelse med administration af webshop.",
+        "reactlogo": "http://projects.gupalu.dk/wp-content/uploads/2022/09/react2.png",
         "reacttitle": "React",
         "reactcontent": "Gennem mit studie har jeg fået kendskab til React, og jeg har blandt andet brugt det til at bygge komponenter til SPA websites.",
+        "somelogo": "http://projects.gupalu.dk/wp-content/uploads/2022/09/video2.png",
         "sometitle": "Video og sociale medier",
         "somecontent": "Jeg har et godt kendskab til social media marketing, og har erfaring med at skabe video og motion graphics med Premiere Pro og After Effects til brug på sociale platforme."
 
