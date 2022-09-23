@@ -33,7 +33,7 @@
         "link": "https://github.com/MagnusKingoDanielsen/Webdoc.git"
     },
     {
-        "image": "/img/http://projects.gupalu.dk/wp-content/uploads/2022/09/Orkester-logo.jpg",
+        "image": "http://projects.gupalu.dk/wp-content/uploads/2022/09/Orkester-logo.jpg",
         "title": "The Tranbjerg Symphony",
         "summary": "Short educational project focused on the use of external data sources. Third semester", 
         "description": "A fictitious symphonic orchestra was looking for a solution to keep track of their musicians. Therefore, the site needed to include a search function, as well as functions to show all musicians, delete musicians, and create new musicians.", 
@@ -49,7 +49,7 @@
         "link": "https://github.com/MultimedieGunvor/OrkesterCase.git"
     },
     {
-        "image": "/img/http://projects.gupalu.dk/wp-content/uploads/2022/09/Saki-logo2.jpg",
+        "image": "http://projects.gupalu.dk/wp-content/uploads/2022/09/Saki-logo2.jpg",
         "title": "Snack & hund",
         "summary": "Design and layout project for a cookbook writer. Freelance work", 
         "description": "Over the course of this project, I grew very familiar with In Design, and I gained a greater understanding of the processes involved in publishing a book. The project tasks included proofreading, design and composition work, and layout for the entire book, including the cover.", 
