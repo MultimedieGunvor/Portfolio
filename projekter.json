@@ -36,7 +36,7 @@
     },
     {
         "id": "3",
-        "image": "/img/Orkester-logo.jpg",
+        "image": "img/Orkester-logo.jpg",
         "title": "Tranbjerg-symfonien",
         "summary": "Kort læringsprojekt med fokus på eksterne datakilder. Tredje semester", 
         "description": "Et fiktivt symfoniorkester stod og manglede en overskuelig løsning til at holde styr på deres musikere. Sitet skulle derfor indeholde en søgefunktion og funktioner der kunne vise samtlige musikere, slette musikere og oprette nye musikere.", 
