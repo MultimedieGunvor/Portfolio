@@ -23,8 +23,8 @@ export default function Projects() {
     return (
         <>
         <section className="page">
-            <h1>Projects Page</h1>
-            <section className="grid-container">
+            <h1>Projects</h1>
+            <section className="projects-container">
                 {projekter.map(projekt => (
                     <ProjectItem key={projekt.id} projekt={projekt} />
                 ))}
