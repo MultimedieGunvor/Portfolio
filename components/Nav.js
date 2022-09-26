@@ -7,6 +7,7 @@ export default function Nav() {
                 Home
             </NavLink>
             <NavLink to="/projects">Projects</NavLink>
+            <NavLink to="/about">About</NavLink>
             <LanguageSelector />
             
             
