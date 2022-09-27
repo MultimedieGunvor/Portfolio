@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.03155c40.css",
+    "main.js": "/static/js/main.3ded7bf8.js",
+    "static/js/787.9e77d474.chunk.js": "/static/js/787.9e77d474.chunk.js",
+    "static/media/HurmeGeometricSans4-SemiBold.eot": "/static/media/HurmeGeometricSans4-SemiBold.78e1daaedb20388ae476.eot",
+    "static/media/HurmeGeometricSans4-SemiBold.ttf": "/static/media/HurmeGeometricSans4-SemiBold.328d7a46154f4b70a3fe.ttf",
+    "static/media/HurmeGeometricSans4-LightObl.eot": "/static/media/HurmeGeometricSans4-LightObl.1f1adfb82b1950991a94.eot",
+    "static/media/HurmeGeometricSans4-LightObl.ttf": "/static/media/HurmeGeometricSans4-LightObl.b65360ecdcea1216eb87.ttf",
+    "static/media/HurmeGeometricSans4-Thin.eot": "/static/media/HurmeGeometricSans4-Thin.0c57f71c16bffb43c797.eot",
+    "static/media/HurmeGeometricSans4-Thin.ttf": "/static/media/HurmeGeometricSans4-Thin.4667d4c1a43e7fb60012.ttf",
+    "static/media/Hero2.jpg": "/static/media/Hero2.2f19ed396eed52798f66.jpg",
+    "static/media/HurmeGeometricSans4-SemiBold.woff": "/static/media/HurmeGeometricSans4-SemiBold.e1d82104d45ba66fcec1.woff",
+    "static/media/HurmeGeometricSans4-LightObl.woff": "/static/media/HurmeGeometricSans4-LightObl.a91b6c3b443e850dccf8.woff",
+    "static/media/HurmeGeometricSans4-Thin.woff": "/static/media/HurmeGeometricSans4-Thin.de2c60c4af4d7187294f.woff",
+    "static/media/trekant.png": "/static/media/trekant.242881346010a437e4df.png",
+    "static/media/trekant2.png": "/static/media/trekant2.0b59699612e1ee842858.png",
+    "static/media/assymmetri2.png": "/static/media/assymmetri2.339b87e77d26e17cb47f.png",
+    "index.html": "/index.html",
+    "main.03155c40.css.map": "/static/css/main.03155c40.css.map",
+    "main.3ded7bf8.js.map": "/static/js/main.3ded7bf8.js.map",
+    "787.9e77d474.chunk.js.map": "/static/js/787.9e77d474.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03155c40.css",
+    "static/js/main.3ded7bf8.js"
+  ]
+}
