@@ -2,6 +2,8 @@
      {
         "id": "5",
         "image": "http://projects.gupalu.dk/wp-content/uploads/2022/09/Henrik-logo2.jpg",
+        "image2": "http://projects.gupalu.dk/wp-content/uploads/2022/09/ResponsiveHenrik3.png",
+        "image3": "http://projects.gupalu.dk/wp-content/uploads/2022/09/Plakat.jpg",
         "title": "Guldsmed Henrik Saugbjerg",
         "summary": "Dynamisk webløsning med SoMe content strategi. Andet semesters eksamensprojekt", 
         "description": "Virksomheden havde en etableret kundebase, men kæmpede med at skabe kontakt til en yngre målgruppe. Derfor satte vi fokus på brugerforståelse i vores løsning, og målrettede vores SoMe kampagne mod et yngre publikum med kreative interesser såsom smykkefremstilling. Vi genererede dynamisk indhold på sitet ved at hente information om smykkefremstillingskurser fra en ekstern datakilde.", 
@@ -19,6 +21,8 @@
     {
         "id": "4",
         "image": "http://projects.gupalu.dk/wp-content/uploads/2022/09/Saki-logo2.jpg",
+        "image2": "http://projects.gupalu.dk/wp-content/uploads/2022/09/saki2-scaled.jpg",
+        "image3": "http://projects.gupalu.dk/wp-content/uploads/2022/09/saki1a.jpg",
         "title": "Snack & hund",
         "summary": "Design- og layoutprojekt for en kogebogsforfatter. Freelance-arbejde", 
         "description": "I løbet af dette projekt blev jeg meget fortrolig med Adobe In Design, og fik en større forståelse for processerne bag udgivelsen af en bog. Mine opgaver omfattede korrekturlæsning, design- og kompositionsarbejde og layout af hele bogblokken samt for-og bagsiden.", 
@@ -37,6 +41,8 @@
     {
         "id": "3",
         "image": "http://projects.gupalu.dk/wp-content/uploads/2022/09/Orkester-logo.jpg",
+        "image2": "http://projects.gupalu.dk/wp-content/uploads/2022/09/ResponsiveTranbjerg.png",
+        "image3": "http://projects.gupalu.dk/wp-content/uploads/2022/11/Orkesterkode.jpg",
         "title": "Tranbjerg-symfonien",
         "summary": "Kort læringsprojekt med fokus på eksterne datakilder. Tredje semester", 
         "description": "Et fiktivt symfoniorkester stod og manglede en overskuelig løsning til at holde styr på deres musikere. Sitet skulle derfor indeholde en søgefunktion og funktioner der kunne vise samtlige musikere, slette musikere og oprette nye musikere.", 
@@ -54,6 +60,8 @@
     {
         "id": "2",
         "image": "http://projects.gupalu.dk/wp-content/uploads/2022/09/AFS-logo1.jpg",
+        "image2": "http://projects.gupalu.dk/wp-content/uploads/2022/09/ResponsiveAFS.png",
+        "image3": "http://projects.gupalu.dk/wp-content/uploads/2022/09/Sprog-animation.gif",
         "title": "AFS Interkultur Danmark",
         "summary": "Webdok for en non-profit organisation med fokus på internationalt samarbejde", 
         "description": "Et spændende gruppeprojekt med vægt på tværfagligt samarbejde og god brugerforståelse. Vi brugte storytelling til at skabe en webdok, med tilhørende SoMe kampagnestrategi, og fremlagde vores produkt for virksomheden i en professionel præsentation.", 
@@ -71,6 +79,8 @@
     {
         "id": "1",
         "image": "http://projects.gupalu.dk/wp-content/uploads/2022/09/Amo-logo2.jpg",
+        "image2": "http://projects.gupalu.dk/wp-content/uploads/2022/09/ResponsiveAmo.png",
+        "image3": "http://projects.gupalu.dk/wp-content/uploads/2022/11/Styletile-2.png",
         "title": "Amo",
         "summary": "Responsiv webløsning. Første semesters eksamensprojekt", 
         "description": "Her isolerede jeg potentielle nye målgrupper til et etableret brand, og jeg arbejdede med at imødekomme deres behov og ønsker. Derfor kan man på sitet læse om Amos nye, økologiske linje, og børnefamilier kan teste deres viden om bagning ved at tage en sjov bagequiz.", 
