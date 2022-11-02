@@ -2,8 +2,8 @@
         {
         "id": "10",
         "image": "http://projects.gupalu.dk/wp-content/uploads/2022/09/Henrik-logo2.jpg",
-        "image2": "http://projects.gupalu.dk/wp-content/uploads/2022/09/ResponsiveHenrik3.png",
-        "image3": "http://projects.gupalu.dk/wp-content/uploads/2022/09/Plakat.jpg",
+        "image2": "http://projects.gupalu.dk/wp-content/uploads/2022/11/ResponsiveHenrik2.png",
+        "image3": "http://projects.gupalu.dk/wp-content/uploads/2022/11/Plakat2.png",
         "title": "Jeweller Henrik Saugbjerg",
         "summary": "Dynamic web solution combined with a SoMe content strategy. Second semester exam project", 
         "description": "The company already had an established customer base, but was struggling to connect with a younger audience. To address this issue, we focused on creating a solution based on an understanding of the user, and we employed a SoMe campaign targeting a younger demographic with creative hobbies and interests such as jewelry making. We generated content dynamically by importing information from an external data source about the jewelry making courses that the company offers.", 
@@ -21,8 +21,8 @@
     {
         "id": "9",
         "image": "http://projects.gupalu.dk/wp-content/uploads/2022/09/Saki-logo2.jpg",
-        "image2": "http://projects.gupalu.dk/wp-content/uploads/2022/09/saki2-scaled.jpg",
-        "image3": "http://projects.gupalu.dk/wp-content/uploads/2022/09/saki1a.jpg",
+        "image2": "http://projects.gupalu.dk/wp-content/uploads/2022/11/saki1a2.png",
+        "image3": "http://projects.gupalu.dk/wp-content/uploads/2022/11/saki4.png",
         "title": "Snack & hund",
         "summary": "Design and layout project for a cookbook writer. Freelance work", 
         "description": "Over the course of this project, I grew very familiar with In Design, and I gained a greater understanding of the processes involved in publishing a book. The project tasks included proofreading, design and composition work, and layout for the entire book, including the cover.", 
@@ -40,7 +40,7 @@
     {
         "id": "8",
         "image": "http://projects.gupalu.dk/wp-content/uploads/2022/09/Orkester-logo.jpg",
-        "image2": "http://projects.gupalu.dk/wp-content/uploads/2022/09/ResponsiveTranbjerg.png",
+        "image2": "http://projects.gupalu.dk/wp-content/uploads/2022/11/ResponsiveTranbjerg2.png",
         "image3": "http://projects.gupalu.dk/wp-content/uploads/2022/11/Orkesterkode.jpg",
         "title": "The Tranbjerg Symphony",
         "summary": "Short educational project focused on the use of external data sources. Third semester", 
@@ -59,7 +59,7 @@
     {
         "id": "7",
         "image": "http://projects.gupalu.dk/wp-content/uploads/2022/09/AFS-logo1.jpg",
-        "image2": "http://projects.gupalu.dk/wp-content/uploads/2022/09/ResponsiveAFS.png",
+        "image2": "http://projects.gupalu.dk/wp-content/uploads/2022/11/ResponsiveAFS2.png",
         "image3": "http://projects.gupalu.dk/wp-content/uploads/2022/09/Sprog-animation.gif",
         "title": "AFS Intercultural Programs",
         "summary": "Web doc for a non-profit organisation focusing on international relations", 
@@ -78,7 +78,7 @@
     {
         "id":"6",
         "image": "http://projects.gupalu.dk/wp-content/uploads/2022/09/Amo-logo2.jpg",
-        "image2": "http://projects.gupalu.dk/wp-content/uploads/2022/09/ResponsiveAmo.png",
+        "image2": "http://projects.gupalu.dk/wp-content/uploads/2022/11/ResponsiveAmo2.png",
         "image3": "http://projects.gupalu.dk/wp-content/uploads/2022/11/Styletile-2.png",
         "title": "Amo",
         "summary": "Responsive web solution. First semester exam project", 
