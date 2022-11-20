@@ -1,5 +1,22 @@
 [
         {
+        "id": "22",
+        "image": "http://projects.gupalu.dk/wp-content/uploads/2022/11/Tavern.png",
+        "title": "The Tavern",
+        "summary": "Progressive web app. Third semester group exam project", 
+        "description": "A platform to help people connect based on a shared interest in tabletop role playing games such as Dungeons and Dragons. We set up Firestore databases in order to let visitors to the site create or delete posts, as well as filters and follow-options for the different communities and groups.", 
+        "tooltitle": "Tools and processes", 
+        "tool1": "Concept testing", 
+        "tool2": "User testing", 
+        "tool3": "Project management",
+        "tool4": "Illustrator",
+        "tool5": "Firestore database",
+        "tool6": "CRUD",
+        "tool7": "React.js",
+        "tool8": " ",
+        "link": "https://thetavern.gupalu.dk/"
+    },
+        {
         "id": "10",
         "image": "http://projects.gupalu.dk/wp-content/uploads/2022/09/Henrik-logo2.jpg",
         "image2": "http://projects.gupalu.dk/wp-content/uploads/2022/11/ResponsiveHenrik2.png",
@@ -16,7 +33,7 @@
         "tool6": "After Effects",
         "tool7": "HTML and CSS",
         "tool8": "JavaScript and JSON",
-        "link": "https://github.com/MultimedieGunvor/Henrik-Saugbjerg.git"
+        "link": "https://saugbjerg.gupalu.dk/"
     },
     {
         "id": "9",
@@ -54,7 +71,7 @@
         "tool6": " ",
         "tool7": " ",
         "tool8": " ",
-        "link": "https://github.com/MultimedieGunvor/OrkesterCase.git"
+        "link": "https://orkester.gupalu.dk/"
     },
     {
         "id": "7",
@@ -73,7 +90,7 @@
         "tool6": "Illustrator",
         "tool7": "HTML and CSS",
         "tool8": "JavaScript",
-        "link": "https://github.com/MagnusKingoDanielsen/Webdoc.git"
+        "link": "https://afs.gupalu.dk/"
     },
     {
         "id":"6",
@@ -92,7 +109,7 @@
         "tool6": "Illustrator",
         "tool7": "HTML and CSS",
         "tool8": " ",
-        "link": "https://github.com/MultimedieGunvor/Amo.git" 
+        "link": "https://amo.gupalu.dk/" 
     }
 ]
 
